@@ -8,7 +8,7 @@ This project's objective is to mine coins using actor models that operate on mul
 ### Steps to run:
 1. START SERVER: Commands to start the server
 ``` 
-erl-namebitcoinMiningServer@{ip_address}-setcookie dospproject1
+erl -name bitcoinMiningServer@{ip_address} -setcookie dospproject1
 c(bitcoinMiningServer).
 bitcoinMiningServer:bitcoin_mining_server_start( n ).
 ```
