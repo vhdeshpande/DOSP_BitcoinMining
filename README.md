@@ -54,9 +54,7 @@ deshpande.v;ivNGomY0Cb	00003002f52c9eb11b2e01b7b1d305f47144551e697ebce9b25150408
 ```
 
 ### Running Time
-* CPU Time: 17.13 seconds
-* Real-Time:  8.06 seconds
-* Ratio CPU Time / Real-Time: 2.11
+* Ratio CPU Time / Real-Time: 7.11
 
 ### Coin with most zeroes (8):
 ```
